@@ -1,0 +1,333 @@
+﻿STRUCTURAL FLOW — CONSCIOUSNESS FORMAL METHODS / MACHINE COMPANION
+Consciousness and Experiential Absence: Formal Object, Admission Contract, Machine Stop, and Universal-Kernel Interface
+ABSTRACT
+This companion exposes the formal and machine-auditable backbone of the paper Consciousness and Experiential Absence: An Evidentiary Contract and Staged Experimental Program without requiring the primary paper to carry the full Structural Flow or Lean development. The candidate object is C3R: Consciousness as current experiential standing at bounded bearer / fixed-passage scope. The formal package keeps standing capacity for Consciousness, current experiential mode, conscious content, ordinary carried content, behavioral or physiological support, and retrospective report distinct. It then places empirical cases under an Experiential Admission Contract with three lawful evidentiary standings: POSITIVE, NEGATIVE, and INDETERMINATE.
+The current encoded science ledger contains a POSITIVE experiential anchor and no admitted NEGATIVE experiential anchor. NREM complete-unconsciousness candidates, meditative cessation, and propofol/xenon no-experience candidates remain INDETERMINATE at the frozen evidentiary standard. Lean proves the consequences of that frozen ledger: empirical placement is not ready, and no machine closure packet of the encoded C3R form can be inhabited without an admitted NEGATIVE anchor. A separate Consciousness × Universal Kernel v1.0 adapter places the missing NEGATIVE anchor as an OPEN required domain-entry burden while leaving the biological/physical realization mechanism OPEN as a downstream-domain burden. With no required burden encoded as violated, the public Universal Translation Contract returns NotYetAdjudicable rather than NoLawfulTranslation or StructuralConforms.
+The machine result is therefore a disciplined stop, not empirical validation. It does not prove that C3R is the final definition of Consciousness, that experiential absence exists, that any present candidate passage is NEGATIVE, that the admission contract is empirically complete, or that any neural mechanism causes Consciousness. The missing NEGATIVE anchor is carried forward as a staged experimental burden: Stage A attempts to validate the negative instrument against independently known-positive experience under memory/access challenge; if that gate passes, Stage B applies the validated instrument to prospectively bounded extended-cessation target passages; Stage C applies the frozen adjudication rule to locked evidence. No Universal Kernel repair is required at the present checkpoint because the unresolved empirical and realization burdens are lawfully located as domain-owned burdens rather than missing universal structure.
+1. PURPOSE AND CLAIM BOUNDARY
+The primary paper carries the scientific problem, current evidence gap, and staged experimental program. This companion carries the formal derivation, evidentiary admission architecture, machine encoding, machine stop, public Universal Kernel interface, and reproducibility burden.
+The companion does not rederive the full Structural Flow TOE. It uses only the structure needed to identify C3R, distinguish it from neighboring concepts, state the evidentiary contract under which it can be tested, and show why the present evidence produces a machine stop rather than empirical closure. That stop then identifies the specific empirical burden carried into the proposed experiment.
+The formal scope is deliberately narrower than a general theory of Consciousness. C3R is treated as a scoped/downstream object candidate at the level of a bounded consciousness-capable agent/system and a fixed passage. Object closure at that scope is distinct from a later question of universal-kernel residency or broader explanatory reach.
+2. THE C3R OBJECT 
+C3R names Consciousness as current experiential standing. At the scope used here, Consciousness is the passage-specific held mode of a bounded consciousness-capable system in which experiential standing is currently instantiated for the bearer.
+The object is deliberately narrow. It asks whether experience is present for this bearer during this passage without defining Consciousness by a particular content, report channel, behavioral output, neural mechanism, complexity measure, or memory trace. Its job is to preserve that passage-level distinction when neighboring variables change.
+The corresponding failure case is equally narrow:
+STANDING CAPACITY FOR CONSCIOUSNESS REMAINS
+while
+CURRENT EXPERIENTIAL STANDING CLOSES.
+Without this distinction, absence of current experiential standing can collapse into loss of capacity, content, report, responsiveness, memory, or mechanism. C3R therefore concerns a bounded system at a fixed passage and does not require universal status for object closure.
+Its present empirical standing is NOT YET ADJUDICABLE because no lawful NEGATIVE experiential anchor has yet cleared the admission contract.
+C3R does not specify a universal biological substrate, neural mechanism, causal theory, phenomenal content taxonomy, threshold of complexity, report architecture, or condition under which a system first becomes consciousness-capable. It also does not claim that Consciousness itself belongs in the public Universal Kernel.
+3. DISTINCTIONS THE FORMALIZATION PRESERVES
+The derivation depends on preserving three separations.
+3.1 Capacity for Consciousness is not current Consciousness
+The empirical interface contains a distinct capacityForMode predicate. The machine architecture therefore permits a case in which the bearer remains consciousness-capable while the selected mode shape fails. This is the exact granularity required by the C3R failure discriminant. Evidence that a carrier remains capable of Consciousness is not, by itself, evidence that the carrier is currently in the Consciousness mode.
+3.2 Current Consciousness is not a particular conscious content
+The formal interface separately represents modeExperiential and contentExperiential. Positive experiential content implies positive experiential mode under the domain interface, but the reverse identity is not installed. A bearer may therefore retain current experiential standing while particular content changes, becomes unavailable, or is not identified.
+3.3 Carried content is not automatically conscious content
+The empirical interface also contains ordinary contentCarried independently of contentExperiential. Carrying a distinction does not make that distinction conscious by definition. This blocks the machine from silently promoting stored, processed, globally available, recurrent, integrated, or behaviorally usable content into experiential content without a domain-owned warrant.
+4. WHY NEIGHBORING STRUCTURES DO NOT REPLACE C3R
+The present claim is not that Consciousness is independent of every neighboring structure in realization. The narrower claim is that none of the competent neighbors below performs C3R's exact scoped job: adjudicating whether experiential standing is currently instantiated for a pinned bearer during a pinned passage.
+Persistence retains an interaction-produced difference beyond its production. Retained availability does not decide whether the bearer is currently experiencing.
+Boundary discriminates retained carry through a maintained relational cut. Discrimination can be present without deciding current experiential standing.
+Cascade carries an update into a distinct further interaction. Inheritance by a later interaction is neither necessary nor sufficient, by definition, for current experience in the original passage.
+Authorization incorporates an inherited update into the carrier-supported condition. Incorporation is not current experiential standing.
+Recognition preserves authorized carried content as comparably the same binding constraint across locally variable descriptions or uptake surfaces. Recognition concerns sameness across variation, not whether experience is currently instantiated.
+Coherence holds already-recognized local structure jointly as one system or order with shared invariants. System-level joint hold does not answer the passage-specific experiential question by itself.
+Density concerns non-empty common interaction support among plural incorporated distinctions. Common support can vary while the C3R question remains independently live.
+Memory is retained prior difference with standing later answerability. Memory may provide evidence about a past experiential passage, but retention and later answerability are not the same object as current experiential standing.
+Intelligence is maintenance capacity: a bounded system's capacity to sustain coherence through executable and communicable maintenance under entropy. Maintenance capacity does not answer whether experience is currently instantiated.
+Agency is the standing capacity of a bounded persistent system, under imperfect knowledge, to select among structurally reachable actions. Standing selection capacity is not current experiential standing.
+Free Will is the passage-specific mode of Agency in which effective local selectability remains operative across plural reachable continuations long enough to route which continuation begins to carry. This is another passage-specific mode, but its job is local selectability, not experiential standing.
+The non-absorption claim therefore remains scoped and functional. These neighbors may participate in, support, condition, correlate with, or be required by particular realizations of Consciousness. None is promoted into C3R merely because such a relation may exist.
+5. WHY COMMON PROXIES DO NOT DEFINE CURRENT EXPERIENCE
+Report, responsiveness, behavior, memory, attention, recurrence, integration, complexity, global availability, self-monitoring, self-model, metacognition, wakefulness, and rich content may all be scientifically informative. None, however, receives authority to define current experiential standing by default.
+The formal reason is simple: the Consciousness contract source keeps empirical support conditions, ordinary carried content, standing capacity, and experiential predicates in different fields. A candidate support or correlate can be registered without becoming the object. The admission contract additionally blocks several common null patterns from becoming NEGATIVE merely because the expected positive signal is missing.
+6. EXPERIENTIAL ADMISSION CONTRACT
+6.1 Three evidentiary outcomes
+For an eligible pinned case, the empirical interface permits:
+POSITIVE — admissible evidence warrants experiential standing in the target passage.
+NEGATIVE — admissible evidence warrants absence of experiential standing in the target passage.
+INDETERMINATE — the available evidence does not lawfully settle the passage under the contract.
+These are evidentiary standings. They are not ordinary-language state names and are not ontological kinds.
+6.2 Identifying the bearer and passage
+A POSITIVE or NEGATIVE admission requires a pinned carrier, a pinned passage, and a declared mode target. A general state label, broad condition, or retrospective category is not sufficient if the evidence cannot be attributed to the passage being classified.
+6.3 Independence from the candidate being tested
+The state label, candidate mechanism, physiological theory, or desired Consciousness interpretation cannot provide its own experiential classification. If candidate independence fails, the contract routes the case to INDETERMINATE.
+6.4 Timing
+The evidentiary warrant must be attributable to the target passage. Inadequate temporal anchoring routes the case to INDETERMINATE.
+6.5 Retrospective memory and access
+If the mode claim is retrospective, unresolved memory confounding blocks NEGATIVE. No later recall or no retrievable content cannot by itself be treated as experiential absence.
+6.6 Conflicting evidence
+Unresolved evidence conflict routes the case to INDETERMINATE unless an independently registered precedence rule has been established. The present machine contract does not permit a desired conclusion to break the tie.
+6.7 Missing evidence is not NEGATIVE evidence
+The Consciousness contract source explicitly enumerates null or missing-signal patterns that are insufficient by themselves for NEGATIVE:
+no report;
+no movement;
+no command following;
+failed covert task;
+low behavioral score;
+no recalled content;
+proxy non-detection.
+A dedicated negative route is required. Missing positive evidence does not become negative experiential evidence.
+6.8 Capacity evidence is not current-mode evidence
+A proxy validated only for capacity cannot classify the current mode by itself. Such a case is routed to INDETERMINATE if that is the only basis for the mode claim.
+6.9 What POSITIVE and NEGATIVE admission require
+For a POSITIVE case, the contract requires adequate pinning, candidate independence, temporal adequacy, no unresolved conflict, and at least one affirmative route among first-person evidence, affirmative report, validated positive proxy, or convergent positive bundle. A POSITIVE admission then warrants the domain-owned experiential predicate.
+For a NEGATIVE case, the contract requires adequate pinning, candidate independence, temporal adequacy, no unresolved conflict, a dedicated negative probe, and memory-confound clearance where the mode claim is retrospective. A NEGATIVE admission then warrants absence of the domain-owned experiential predicate.
+The machine does not manufacture the domain experiential predicate. The domain owns the predicate; the contract governs lawful admission to or exclusion from it.
+7. CURRENT EVIDENCE REPRESENTED IN LEAN
+The current formal ledger encodes four evidence packages:
+affirmativePositive → POSITIVE;
+NREM complete-unconsciousness candidate → INDETERMINATE;
+meditative cessation → INDETERMINATE;
+propofol/xenon no-experience candidate → INDETERMINATE.
+The machine then proves:
+1. the ledger contains at least one POSITIVE anchor;
+2. the ledger contains no NEGATIVE anchor;
+3. empirical placement readiness, defined here as possession of both a POSITIVE and a NEGATIVE anchor, does not hold;
+4. no ModeClosureCandidate over this empirical ledger can be inhabited while no NEGATIVE anchor exists.
+The fourth result is deliberately independent of the selected job, shape, capacity, neighbor inventory, and failure theory. It follows from the closure packet itself requiring a NEGATIVE anchor.
+An important boundary follows. Lean does not infer the NREM, cessation, or propofol/xenon standings from the empirical literature itself. Those classifications enter the formalization as adjudicated scientific inputs. Lean then checks what follows from them under the encoded contract.
+8. THE TWO LEAN FILES
+The formal release uses two separate Lean sources.
+Structural_Flow_Universal_Kernel_v1.0.lean is the standalone Structural Flow Universal Kernel. It contains the reusable universal theorem machinery, including the Universal Translation Contract used by the Consciousness formalization. It contains no Consciousness-specific evidence contract or empirical ledger.
+SF_Consciousness_Contract_and_Adapter_v0_1.lean contains the scoped Consciousness formalization used here: the C3R machinery needed at the present checkpoint, the Experiential Admission Contract, the current evidence representation, the empirical stop, and the adapter that places those results under the Universal Translation Contract. It does not contain or modify the Universal Kernel.
+The dependency therefore runs from the Universal Kernel to the Consciousness Contract and Adapter. Keeping the files separate allows the reusable universal machinery and the scoped Consciousness formalization to be inspected independently.
+To audit the combined result, concatenate the unchanged Universal Kernel source followed by the unchanged Consciousness Contract and Adapter source and elaborate the resulting Lean file. The expected result is a clean elaboration with no messages. The standalone Universal Kernel also elaborates cleanly by itself. The release-facing combined check was run twice with no messages.
+8.1 What the Consciousness file records and proves
+The Consciousness source keeps several authority layers distinct.
+Human/domain adjudication is encoded where the project has already located or classified a burden. Examples include the current job/shape/loss ledger and the current evidentiary standings of the candidate empirical cases.
+Lean then proves consequences of those encoded inputs. In particular, the present ledger has a POSITIVE anchor, has no NEGATIVE anchor, is not empirically placement-ready under the encoded two-sided burden, and cannot inhabit the encoded ModeClosureCandidate while the required NEGATIVE anchor is absent.
+The adapter then translates that same frozen state into the public Universal Translation Contract without altering the kernel.
+8.2 Why this is not a machine discovery claim
+The machine does not read the consciousness literature, infer phenomenology from raw data, or independently decide that NREM, meditative cessation, or anesthesia cases are INDETERMINATE.
+Those standings enter as domain-owned adjudicated inputs. The machine claim begins after that point: given the encoded contract and ledger, the stated consequences elaborate.
+This distinction is central to the public result.
+9. HOW THE CONSCIOUSNESS CONTRACT USES THE UNIVERSAL KERNEL
+9.1 What is already settled at the object level
+The adapter registers the following scoped object burdens:
+- job located;
+- shape located;
+- loss located;
+- same-level non-absorption;
+- false substitutes cleared;
+- failure-side architecture.
+At the accepted human/domain standing represented by the release source, these object burdens are DISCHARGED.
+9.2 What remains open empirically
+The adapter registers three domain burdens:
+- positive experiential anchor;
+- negative experiential anchor;
+- realization mechanism.
+Their present states are:
+positive experiential anchor → required domain-entry burden → DISCHARGED;
+negative experiential anchor → required domain-entry burden → OPEN;
+realization mechanism → downstream-domain burden → OPEN.
+The positive and negative anchor states are tied to the frozen science ledger rather than merely assigned as uninterpreted labels.
+9.3 Why Lean stops at NotYetAdjudicable
+The public Universal Translation Contract distinguishes known violation from known openness.
+For the current Consciousness packet:
+- no required public-contract burden is encoded as VIOLATED;
+- the required negative experiential anchor is exactly located as OPEN.
+The adapter therefore proves:
+NotYetAdjudicable(consciousnessPublicWorld).
+The same known-open entry burden blocks StructuralConforms at the present evidence state.
+9.4 Why an open mechanism does not block this result
+The realization mechanism is scientifically important, but the present contract does not require a completed biological or physical mechanism in order to state the scoped C3R object and its empirical admission burden.
+The adapter therefore marks realizationMechanism as downstream-domain work rather than a domain-entry condition. Its OPEN state remains visible without being misclassified as a failure of universal structure.
+9.5 Why the present result does not require changing the Universal Kernel
+No exact missing universal burden is located by the current Consciousness packet.
+The unresolved burdens already have lawful locations:
+- missing NEGATIVE anchor → OPEN required domain-entry burden;
+- realization mechanism → OPEN downstream-domain burden.
+Therefore the present stop can be represented using the existing public Universal Translation Contract. No new primitive, hinge, foundational failure regime, universal translation rule, or public-kernel resident is required by this checkpoint.
+This does not prove that the Universal Kernel is complete. It states only that the current Consciousness packet does not locate a kernel insufficiency.
+10. WHAT LEAN ESTABLISHES
+Within the declared formal scope, Lean checks the internal consequences of the encoded definitions and adjudicated scientific inputs.
+The Experiential Admission Contract keeps POSITIVE, NEGATIVE, and INDETERMINATE distinct and enforces the encoded protections against candidate dependence, inadequate temporal attribution, null-only negative inference, capacity-only proxies, unresolved retrospective memory confounds, and unresolved evidence conflict. Where the contract admits a POSITIVE or NEGATIVE case, the corresponding experiential predicate follows at the declared domain level.
+For the present evidence representation, Lean establishes that a POSITIVE anchor exists, a NEGATIVE anchor does not, and the encoded minimum requirement for empirical placement is therefore unmet. Because the closure structure itself requires a NEGATIVE anchor, the current evidence cannot inhabit ModeClosureCandidate.
+At the Universal Kernel interface, the missing NEGATIVE anchor appears as a required OPEN domain-entry burden rather than a known violation. The resulting disposition is NotYetAdjudicable. StructuralConforms therefore does not yet hold, while the unresolved realization mechanism remains visible as downstream domain work rather than as a failure of the Universal Kernel.
+The complete machine-claim inventory is summarized in Table 1.
+11. WHAT LEAN DOES NOT ESTABLISH
+Lean does not prove that:
+- Consciousness is empirically C3R;
+- C3R is the final or unique definition of Consciousness;
+- experiential absence exists;
+- any particular human passage is experientially NEGATIVE;
+- NREM sleep, meditative cessation, propofol, xenon, or any other state is conscious or unconscious in general;
+- the current human/domain literature adjudication is correct merely because it was encoded;
+- the Experiential Admission Contract is empirically complete or uniquely correct;
+- the listed neighbor inventory is complete merely because the adapter marks the accepted object burdens discharged;
+- the Universal Kernel is complete;
+- Consciousness belongs in the public Universal Kernel;
+- a neural, biological, computational, or physical mechanism causes Consciousness;
+- clean Lean elaboration validates phenomenology;
+- the proposed experiment will succeed;
+- a future Stage-A PASS would by itself establish experiential absence;
+- failure to obtain a NEGATIVE passage would falsify C3R.
+Machine-clean means only that Lean accepts the encoded statements and proofs together at their declared formal scopes.
+12. FROM THE FORMAL STOP TO THE EXPERIMENT
+The machine stop identifies one exact missing empirical entry burden:
+required NEGATIVE experiential anchor = OPEN.
+The primary scientific artifact carries a staged empirical program designed to attempt to answer that burden without weakening the admission contract.
+12.1 Stage A — negative-instrument / memory-confound validation
+Stage A asks whether the A/B/C/D/E experiential instrument falsely classifies independently known-positive experience as complete experiential absence when later memory or content access is genuinely challenged.
+The primary quantity is:
+q_D = P(category D | prior positive experience independently established).
+The design gate uses 93 independent index validation cases and requires a one-sided 95% exact Clopper-Pearson upper bound below 0.05. At N = 93, zero or one false-D case can satisfy the gate; two or more fail it.
+A Stage-A PASS would permit the dedicated negative datum to enter the target branch under the frozen design. It would not itself create a C3R NEGATIVE anchor.
+12.2 Stage B — repeated prospectively bounded extended-cessation target observation
+Stage B applies the validated instrument to prospectively bounded extended-cessation attempts in qualified participants.
+The target geometry is:
+PRE-POSITIVE
+→ entry transition
+→ boundary-protected adjudication core
+→ exit transition
+→ POST-POSITIVE.
+The protected core alone is eligible for whole-passage adjudication. Entry and exit uncertainty are excluded from the core rather than repaired retrospectively.
+A candidate NEGATIVE requires, among the frozen burdens:
+- whole-core category-D judgment;
+- demonstrated distinction from content loss, minimal presence, and uncertainty;
+- memory/access guard PASS;
+- no unresolved positive contradiction;
+- candidate-independent classification;
+- protocol integrity;
+- capacity continuity.
+12.3 Stage C — locked adjudication
+After Stage-B data lock, Stage C applies the preregistered decision rule to frozen evidence. It may not collect new primary target data, move boundaries, reword the experiential categories, change the memory guard, add post hoc biomarker thresholds, or repair an inconvenient result.
+Only evidence that clears the frozen NEGATIVE admission route can discharge the presently OPEN negative-anchor burden.
+12.4 How the formal and empirical pieces connect
+The relation between formal stop and experiment is:
+missing NEGATIVE anchor
+→ OPEN required domain-entry burden
+→ Stage A validates the negative instrument
+→ if PASS, Stage B observes prospectively bounded target passages
+→ Stage C applies the locked admission rule
+→ a lawfully admitted NEGATIVE passage can alter the empirical ledger
+→ the formal packet may then be rerun against the changed domain state.
+The Lean release does not encode the full experimental protocol, sample design, or statistical analysis. The experiment remains a domain-owned empirical program linked to the exact burden identified by the formal stop.
+13. REPRODUCING THE FORMAL RESULT
+13.1 Release files
+Structural_Flow_Universal_Kernel_v1.0.lean
+SHA-256:
+b455ec869d062f0fc05d239c5006c843165cd598edbd8c35eae442ff471689a3
+SF_Consciousness_Contract_and_Adapter_v0_1.lean
+SHA-256:
+14aea8a62d2f0deca212423b76a31d3e3332506c3bf6da07ac8b7a8a2028fd24
+13.2 How to run the check
+1. Preserve both release files unchanged.
+2. Create one temporary Lean source whose contents are the exact Universal Kernel followed immediately by the exact Consciousness Contract and Adapter.
+3. Elaborate the resulting source in Lean 4.
+4. Expected result: clean elaboration with no messages.
+The standalone Universal Kernel may also be elaborated independently and is expected to return the same clean/no-message behavior.
+13.3 What a clean result means
+A clean elaboration establishes that the encoded Universal Kernel and scoped Consciousness contract/adapter are jointly accepted by Lean at their declared formal scopes.
+It does not establish empirical truth, phenomenological truth, completeness of the Universal Kernel, correctness of every domain adjudication, mechanism discovery, or experimental success.
+13.4 How to test the formal assumptions
+The source is intentionally auditable. A reader can alter assumptions or burden states and inspect which theorems cease to elaborate or which dispositions change. Examples include:
+- admit a NEGATIVE anchor into the current empirical ledger and inspect the present science-stop theorems;
+- attempt to inhabit ModeClosureCandidate while the ledger still lacks a NEGATIVE anchor;
+- change a required entry burden from OPEN to VIOLATED and inspect the public disposition;
+- discharge the negative experiential anchor while preserving the other required burdens and inspect the gating result;
+- move realizationMechanism from downstream-domain to domain-entry status and inspect the changed burden;
+- weaken an INDETERMINATE firewall and inspect what evidence becomes admissible;
+- collapse standing capacity, ordinary carried content, or support into the experiential-mode predicate and inspect which explicit separations disappear.
+Such edits are stress tests of the encoded relation. They do not create scientific truth.
+14. MACHINE CLAIMS AT A GLANCE
+Claim
+	Machine status
+	Exact interpretation
+	C3R job/shape/loss current location
+	ENCODED / PROVED AS LEDGER CONJUNCTION
+	Human/domain adjudication is recorded as three true propositions; Lean proves ObjectLocationReady for that ledger.
+	POSITIVE experiential anchor exists
+	PROVED FROM FROZEN LEDGER
+	The encoded current science ledger contains an eligible POSITIVE case.
+	NEGATIVE experiential anchor exists
+	REFUTED FOR FROZEN LEDGER
+	Lean proves no encoded current-science case has NEGATIVE standing.
+	Empirical placement ready
+	REFUTED FOR FROZEN LEDGER
+	The encoded minimum requires both positive and negative anchors.
+	Mode closure available from current ledger
+	REFUTED
+	Any ModeClosureCandidate requires a NEGATIVE anchor; the current ledger has none.
+	NREM candidate is INDETERMINATE
+	ENCODED CURRENT DOMAIN ADJUDICATION
+	Not inferred by Lean from raw sleep data.
+	Meditative cessation is INDETERMINATE
+	ENCODED CURRENT DOMAIN ADJUDICATION
+	Not inferred by Lean from raw meditation data.
+	Propofol/xenon candidate is INDETERMINATE
+	ENCODED CURRENT DOMAIN ADJUDICATION
+	Not inferred by Lean from raw anesthesia data.
+	Required NEGATIVE public entry burden
+	PROVED OPEN
+	The adapter constructs a KnownOpen domain-entry witness tied to the no-negative-anchor theorem.
+	Known required public failure exists
+	REFUTED FOR CURRENT PACKET
+	No required core, object, or entry burden is encoded as VIOLATED.
+	Public-kernel disposition
+	PROVED NotYetAdjudicable
+	No known failure plus at least one known required open burden.
+	StructuralConforms
+	REFUTED FOR CURRENT PACKET
+	The known open NEGATIVE entry burden blocks gating pass.
+	Realization mechanism
+	PROVED DOWNSTREAM OPEN
+	It remains domain-owned and is not used as an entry failure.
+	Universal Kernel repair required
+	NOT ESTABLISHED; CURRENT PACKET REQUIRES NONE
+	No exact missing universal burden is located by this packet.
+	Consciousness is C3R empirically
+	NOT PROVED
+	Outside machine claim.
+	Experiential absence exists
+	NOT PROVED
+	Outside current evidence.
+	Experiment succeeds
+	NOT PROVED
+	Future empirical question.
+	
+
+15. FORMAL CLAIMS AND THEIR BOUNDARIES
+Formal claim
+	Boundary
+	C3R is the retained scoped object candidate
+	Retention and location are not empirical confirmation.
+	The object job is current experiential standing
+	Does not define a neural or biological mechanism.
+	Capacity, mode, and content are formally separable
+	Does not prove every real system instantiates all separations in every condition.
+	Same-level neighbors do not perform C3R's exact accepted job
+	Does not claim realization independence from those structures.
+	False substitutes lack default object authority
+	Does not make report, behavior, memory, physiology, or complexity scientifically irrelevant.
+	POSITIVE / NEGATIVE / INDETERMINATE are explicit evidentiary classes
+	They are not ontological state kinds.
+	Null evidence does not become NEGATIVE by default
+	Does not prove every negative claim is impossible.
+	A NEGATIVE anchor is required by the encoded closure packet
+	This is the formal burden of the present C3R adjudication, not a universal theorem that every consciousness theory must use the same empirical contract.
+	Current science ledger lacks a NEGATIVE anchor
+	This is the current adjudicated ledger, not a theorem over all published or future evidence.
+	Current packet is NotYetAdjudicable
+	This is neither rejection nor empirical closure.
+	Realization mechanism may remain downstream OPEN
+	Does not make mechanism unimportant; it locates its role.
+	No Universal Kernel repair is required now
+	Does not prove the kernel is complete or immune to future pressure.
+	The staged experiment addresses the missing anchor burden
+	It does not guarantee that a NEGATIVE anchor will be earned.
+	16. FILES IN THIS RELEASE
+The release consists of four complementary files.
+Structural_Flow_Universal_Kernel_v1.0.lean contains the standalone reusable Universal Kernel.
+SF_Consciousness_Contract_and_Adapter_v0_1.lean contains the scoped C3R formalization, Experiential Admission Contract, current evidence representation, formal stop, and adapter into the Universal Translation Contract.
+SF_CONSCIOUSNESS_FORMAL_METHODS_MACHINE_COMPANION_v0_5.txt is this reader-facing explanation of the two Lean files, their claims, their limits, and their relation to the proposed experiment.
+Consciousness and Experiential Absence: An Evidentiary Contract and Staged Experimental Program is the primary scientific artifact carrying the scientific problem, evidence analysis, and staged experimental proposal.
+The primary paper does not require a reader to inspect Lean. The formal files and this companion are provided for readers who want to audit the derivation and machine claims directly.
+17. CONCLUSION
+The formal result is deliberately bounded. C3R is structurally located at the declared passage-specific scope, and the Experiential Admission Contract makes the evidentiary burden explicit. The current evidence representation contains a POSITIVE experiential anchor but no admitted NEGATIVE anchor. Under the encoded closure burden, empirical placement therefore remains incomplete.
+At the Universal Kernel interface, that missing NEGATIVE anchor is represented as an OPEN required domain-entry burden. No required burden is presently represented as violated, while the unresolved realization mechanism remains downstream domain work. The resulting formal disposition is NotYetAdjudicable.
+The proposed experiment addresses precisely this open empirical burden. Stage A tests whether the negative instrument survives a memory/access challenge in independently known-positive cases. If it does, Stage B applies that instrument to prospectively bounded target passages, and Stage C applies the frozen adjudication rule to locked evidence. Only a lawfully admitted NEGATIVE passage can change the present evidentiary standing relevant to this checkpoint.
+The Lean result is therefore an auditable stop condition, not a demonstration of experiential absence and not a claim to have solved Consciousness.
